@@ -1,0 +1,1 @@
+# Zero-shot-image-segmentation-with-CLIPSeg
